@@ -1,0 +1,36 @@
+{
+  "name": "mjr/cg-interfaces",
+  "version": "1.0.0",
+  "type": "symfony-bundle",
+  "description": "Code Generation Required Interfaces",
+  "keywords": [
+    "symfony",
+    "code",
+    "generator",
+    "bundle",
+    "interfaces"
+  ],
+  "homepage": "https://www.mjr.one",
+  "license": "LGPL V3",
+  "autoload": {
+    "psr-4": {
+      "MjrOne\\CodeGeneratorInterfaces": "/src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Christopher Westerfield",
+      "email": "chris@mjr.one"
+    }
+  ],
+  "require": {
+    "mjr/code-generator-bundle": "1.*"
+  },
+  "require-dev": {
+  },
+  "extra": {
+    "branch-alias": {
+      "release": "master"
+    }
+  }
+}
