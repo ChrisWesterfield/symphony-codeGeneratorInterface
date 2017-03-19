@@ -11,10 +11,10 @@
     "interfaces"
   ],
   "homepage": "https://www.mjr.one",
-  "license": "LGPL V3",
+  "license": "LGPL-3.0",
   "autoload": {
     "psr-4": {
-      "MjrOne\\CodeGeneratorInterfaces": "/src"
+      "MjrOne\\CodeGeneratorInterfaces\\": "/src"
     }
   },
   "authors": [
@@ -30,7 +30,7 @@
   },
   "extra": {
     "branch-alias": {
-      "release": "master"
+      "release": "master-dev"
     }
   }
 }
