@@ -1,6 +1,6 @@
 {
   "name": "mjr/cg-interfaces",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "symfony-bundle",
   "description": "Code Generation Required Interfaces",
   "keywords": [
