@@ -1,6 +1,6 @@
 {
   "name": "mjr/cg-interfaces",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "symfony-bundle",
   "description": "Code Generation Required Interfaces",
   "keywords": [
@@ -24,7 +24,7 @@
     }
   ],
   "require": {
-    "mjr/code-generator-bundle": "1.*"
+    "php": ">=7.0.0"
   },
   "require-dev": {
   },
